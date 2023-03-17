@@ -1,0 +1,25 @@
+#Skapat min projet inlämningsuppgift python+2
+#inställerat pipenv install fastapi uvicorn i min terminal
+#skapat en fil för att se att jag kan köra mina filer
+#skapade api.py, my_app.py
+#Jag provade att båda filer går att köra genom att skriva "Hello world"
+
+#Steg 2:
+#importera fastapi (i api.py importera jag fastapi, sen kollar om vi har uvicorn )
+#skapa app
+#kör med uvicorn
+#skapat några routes
+   # -root
+   # -get
+    #-post
+    #-delete
+    #-update
+
+# steg 3
+#   - meny
+    #- lägg till en item
+    # ta bort en item
+    # uppdatera en item
+    #visa alla items
+    #visa en item
+    # avsuta programmet 
